@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aung Myat Min.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning from CS50x.
+- 🌱 I’m currently learning from CS50x and The Odin Project.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
